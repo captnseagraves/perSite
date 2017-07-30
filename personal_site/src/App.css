@@ -22,3 +22,51 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+/* create-react app css */
+
+/* Header */
+
+.navbar {
+  background-color: transparent;
+  border: none;
+}
+
+/* Footer */
+
+ .footer {
+   height: 5vmin;
+   width: 100vmax;
+   background-color: transparent;
+   text-align: center;
+   color: rgb(255, 237, 153);
+   bottom:0;
+   position: fixed;
+ }
+
+.fText {
+  padding-top: 1.25vmin;
+}
+
+/* Home */
+
+.homeBack {
+  background-color: rgb(244, 244, 244);
+  height: 100vmin;
+  width: 100vmax;
+}
+
+.homeFirstImg {
+  background-image: url('./images/ales-krivec-107499.jpg');
+  background-size: auto;  
+  height: 95vmin;
+  width: 100vmax;
+
+}
+
+/*img {
+    max-width: 100%;
+    max-height: 100%;
+    background-image: url('./images/ales-krivec-107499.jpg');
+
+}*/
