@@ -57,10 +57,10 @@
 }
 
 .homeFirstImg {
-  background-image: url('./images/ales-krivec-107499.jpg');
-  background-size: auto;  
+  background-image: url('./images/aleks-dahlberg-258314.jpg');
+  object-fit: contain;
   height: 95vmin;
-  width: 100vmax;
+  width: 100%;
 
 }
 
